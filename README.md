@@ -9,18 +9,22 @@ Yes Bank Limited is an Indian private sector bank headquartered in Mumbai, India
 
 Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
 
-# Algorithm used 
-1.Linear regression
+# Analysis
+The analysis will include the following steps
+1.Importing Libraries
+2.Reading Data
+3.Understanding the data
+4.Data Cleaning and preprocessing
+5.Data visualization to communicate the result
+6.Conclusion
 
-2.lasso regression
-
-3.Ridge regression
-
-4.ElasticNet regression
-
-5.SVR
-
-6.XGBoost
+# Requirements
+To run this project you will need to have the following packages installed:
+1.Python-Programming Language
+2.Numpy-Scientific computing library
+3.Pandas-Data Manipulating library
+4.Matplotlib-Data visualization library
+5.Seaborn-Data visualization library
 
 # **features (Column)**:
 
@@ -33,6 +37,19 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
  **4) Close** : Closing price of a stock at the end of a Trading Day
 
 **5) Date** : In our data its monthly observation of stock since it listed
+
+# Algorithm used 
+1.Linear regression
+
+2.lasso regression
+
+3.Ridge regression
+
+4.ElasticNet regression
+
+5.SVR
+
+6.XGBoost
 
 # Conclusion
 
