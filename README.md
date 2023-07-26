@@ -11,19 +11,30 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
 
 # Analysis
 The analysis will include the following steps
+
 1.Importing Libraries
+
 2.Reading Data
+
 3.Understanding the data
+
 4.Data Cleaning and preprocessing
+
 5.Data visualization to communicate the result
+
 6.Conclusion
 
 # Requirements
 To run this project you will need to have the following packages installed:
+
 1.Python-Programming Language
+
 2.Numpy-Scientific computing library
+
 3.Pandas-Data Manipulating library
+
 4.Matplotlib-Data visualization library
+
 5.Seaborn-Data visualization library
 
 # **features (Column)**:
